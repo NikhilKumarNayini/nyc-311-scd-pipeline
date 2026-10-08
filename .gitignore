@@ -21,3 +21,12 @@ data/raw/
 
 # Logs
 *.log
+logs/
+
+# Spark
+*.crc
+spark-warehouse/
+
+# Airflow
+airflow.db
+airflow.cfg
