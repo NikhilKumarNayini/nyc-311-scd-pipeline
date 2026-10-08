@@ -1,0 +1,23 @@
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Environment / secrets
+.env
+*.key
+
+# Local data
+data/raw/
+
+# Logs
+*.log
