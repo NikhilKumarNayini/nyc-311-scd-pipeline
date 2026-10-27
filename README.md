@@ -1,4 +1,5 @@
 # NYC 311 SCD Pipeline
+Author [Nikhil Kumar Nayini](https://github.com/NikhilKumarNayini)
 
 A Python-based ETL pipeline for ingesting NYC 311 service request data into Google Cloud Storage (GCS) and transforming it into a curated, slowly changing dimension (SCD) dataset with Apache Spark.
 
@@ -234,3 +235,5 @@ Possible next steps include:
 
 The NYC 311 SCD Pipeline is a clean example of ETL orchestration using Python, Spark, and GCS. It demonstrates how to ingest public open data, create a curated analytical layer, and process incremental updates without re-reading the entire dataset.
 
+Built by,
+[Nikhil Kumar Nayini](https://github.com/NikhilKumarNayini)
